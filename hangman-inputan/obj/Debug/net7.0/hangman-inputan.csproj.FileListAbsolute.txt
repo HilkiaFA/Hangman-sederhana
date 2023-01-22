@@ -1,0 +1,15 @@
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\bin\Debug\net7.0\hangman-inputan.exe
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\bin\Debug\net7.0\hangman-inputan.deps.json
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\bin\Debug\net7.0\hangman-inputan.runtimeconfig.json
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\bin\Debug\net7.0\hangman-inputan.dll
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\bin\Debug\net7.0\hangman-inputan.pdb
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\obj\Debug\net7.0\hangman-inputan.csproj.AssemblyReference.cache
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\obj\Debug\net7.0\hangman-inputan.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\obj\Debug\net7.0\hangman-inputan.AssemblyInfoInputs.cache
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\obj\Debug\net7.0\hangman-inputan.AssemblyInfo.cs
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\obj\Debug\net7.0\hangman-inputan.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\obj\Debug\net7.0\hangman-inputan.dll
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\obj\Debug\net7.0\refint\hangman-inputan.dll
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\obj\Debug\net7.0\hangman-inputan.pdb
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\obj\Debug\net7.0\hangman-inputan.genruntimeconfig.cache
+C:\xampp\htdocs\project-hangman\game-hangman-sederhana-arrays\hangman-sederhana-inputan\hangman-inputan\obj\Debug\net7.0\ref\hangman-inputan.dll
